@@ -1,6 +1,6 @@
-Hello, My name is rubix4x4 and I'm a recent mechanical engineer PhD. During my recent free time I have begun to teach myself python usage.
+Hello, My name is rubix4x4 and I'm a mechanical engineer PhD. My previous graudate research focussed on robotic systems for pediatric gait rehabilitation.
 
-My training comes largely from the field of robotics, having done my graduate research on rehabilitation robotic system design and control. However my recent work experience in simulation has opened my interests to simulation, path planning, trajectory optimizaiton, and machine learning applications.
+My recent work experience in simulation or robotic systems for industry purposes has opened my interests to simulation, path planning, trajectory optimizaiton, and machine learning applications.
 
 <!---
 rubix4x4/rubix4x4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
